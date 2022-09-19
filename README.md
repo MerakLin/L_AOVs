@@ -1,5 +1,8 @@
 # L_AOVs
 自己瞎写的Shuffle插件
+
+
+
 安装方法：
 1.重命名L_AOVs_VXX.py文件为L_AOVs.py
 2.将L_AOVs.py文件放入.nuke文件夹中
