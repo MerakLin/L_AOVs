@@ -4,7 +4,7 @@
 
 
 安装方法：
-1.重命名L_AOVs_VXX.py文件为L_AOVs.
+1.重命名L_AOVs_VXX.py文件为L_AOVs.py
 
 
 
